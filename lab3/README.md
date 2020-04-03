@@ -1,5 +1,7 @@
 # lab3
 
+老师/助教要是不想下载跑可以找我要演示视频ovo
+
 > A Vue.js project
 
 ## Build Setup
